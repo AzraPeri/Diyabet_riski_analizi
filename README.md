@@ -1,9 +1,9 @@
-#Diyabet Riski Analizi - Veri İşleme ve Makine Öğrenimi Projesi
+Diyabet Riski Analizi - Veri İşleme ve Makine Öğrenimi Projesi
 ===========================================
 
 Bu proje, diyabet riskini analiz etmek için veri işleme ve makine öğrenimi tekniklerini kullanmayı amaçlamaktadır. Kaggle üzerinde bulunan "Diabetes Data Set" veri kümesini kullanarak, diyabet hastalığı ile ilişkili faktörleri incelemek ve diyabet riskini tahmin etmek için çeşitli adımlar gerçekleştirilmiştir.
 
-Projeyi incelemek için [Kaggle Proje Linki](https://www.kaggle.com/muhammedaydin/diabetes-data-analysis) adresini ziyaret edebilirsiniz. Veri kümesine ulaşmak için ise [bu linki](https://www.kaggle.com/datasets/mathchi/diabetes-data-set?select=diabetes.csv) kullanabilirsiniz.
+Projeyi incelemek için [Kaggle Proje Linki](https://www.kaggle.com/azrailanperi/diyabet-riski-analizi-code23proje02) adresini ziyaret edebilirsiniz. Veri kümesine ulaşmak için ise [bu linki](https://www.kaggle.com/datasets/mathchi/diabetes-data-set?select=diabetes.csv) kullanabilirsiniz.
 
 Projede yapılan işlemler şu adımlarla özetlenebilir:
 
@@ -25,4 +25,4 @@ Makine Öğrenimi Modelleri:
 Sonuçlar:
 Bu proje, veri analizi ve makine öğrenimi tekniklerini bir araya getirerek diyabet riskini değerlendirmeyi amaçlamaktadır. Elde edilen sonuçlar, diyabetin önceden tahmin edilmesi ve önleyici tedbirler alınması konusunda yardımcı olabilir.
 
-Kodlar ve daha fazla detay için lütfen [Python dosyalarına](https://www.kaggle.com/muhammedaydin/diabetes-data-analysis) göz atın.
+
